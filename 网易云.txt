@@ -1,0 +1,55 @@
+# QX https://github.com/Mazetsz/ACL4SSR/blob/master/Clash/Netini.list
+# http://allobaby.cn/quantumultX/music.list
+# https://github.com/DesperadoJ/Rules-for-UnblockNeteaseMusic/blob/master/QuantumultX/UnblockNeteaseMusic.conf
+
+checkurl=http://interface3.music.163.com
+
+
+#解锁网易云音乐节点
+
+
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=𝐌𝐮𝐬𝐢𝐜_one,checkurl=http://interface3.music.163.com
+
+
+
+
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=𝐌𝐮𝐬𝐢𝐜_Five
+
+
+
+ss://YWVzLTEyOC1nY206ZGVzcGVyYWRvai5jb21fZnJlZV9wcm94eV9kMzltQE1VU0lDLkRFU1BFUkFET0ouQ09NOjMwMDAz#%F0%9F%8E%A7%20%E7%BD%91%E6%98%93%E9%9F%B3%E4%B9%90%20%E2%91%A0%F0%9F%8E%B5
+
+http://aXZhcHAuY246ODA#%E2%9A%A0%EF%B8%8F%20%E5%85%AC%E7%9B%8A%E4%BB%A3%E7%90%86%EF%BC%8C%E6%94%B6%E8%B4%B9%E8%AF%B7%E4%B8%BE%E6%8A%A5%E5%B9%B6%E5%8F%8D%E9%A6%88
+
+
+http=SALVAN.ICU:19980, over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐3
+
+#http=lolico.me:443, over-tls=false, fast-open=false, udp-relay=false,tag=网易云音乐4
+
+http=music.lolico.me:39000, over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐5
+
+http=music.griouges.cn:39000, over-tls=false, fast-open=false, udp-relay=false,tag=网易云音乐6
+
+#shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=网易云音乐7
+
+http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 1
+
+shadowsocks=MUSIC.DESPERADOJ.COM:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 2
+
+shadowsocks=MUSIC.DESPERADOJ.COM:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 3
+
+http=101.132.79.113:23333, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 4
+
+http=MUSIC.GRIOUGES.CN:39000, over-tls=false, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 5
+
+http=SALVAN.ICU:19980, over-tls=false, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 7
+
+http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=Music 1
+
+http=MUSIC.GRIOUGES.CN:39000, over-tls=false, fast-open=false, udp-relay=false, tag=Music 2
+
+http=SALVAN.ICU:19980, over-tls=false, fast-open=false, udp-relay=false, tag=Music 3
+
+shadowsocks=MUSIC.DESPERADOJ.COM:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=Music 4
+
+shadowsocks=MUSIC.DESPERADOJ.COM:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=Music 5
